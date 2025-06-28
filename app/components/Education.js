@@ -76,7 +76,7 @@ export default function Education() {
                     {edu.period}
                   </span>
                   <span style={{ 
-                    background: edu.status === 'In Progress' ? 'var(--gradient-gold)' : '#10b981', 
+                    background: edu.status === 'In Progress' ? 'var(--gradient-gold)' : 'var(--accent)', 
                     color: 'var(--bg-primary)', 
                     padding: '0.5rem 1rem', 
                     borderRadius: '2rem',
