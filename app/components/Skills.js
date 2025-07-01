@@ -1,8 +1,8 @@
 const skills = [
-  { name: 'Stock Market Analysis', icon: '��', level: 'Advanced', anim: 'flip' },
+  { name: 'Stock Market Analysis', icon: '📈', level: 'Advanced', anim: 'pulse' },
   { name: 'Stock Management', icon: '💼', level: 'Advanced', anim: 'pulse' },
   { name: 'AI Engineering', icon: '🤖', level: 'Expert', anim: 'tilt' },
-  { name: 'Data Analysis', icon: '📊', level: 'Advanced', anim: 'flip' },
+  { name: 'Data Analysis', icon: '📊', level: 'Advanced', anim: 'pulse' },
   { name: 'Business Strategy', icon: '🎯', level: 'Advanced', anim: 'pulse' },
   { name: 'Project Management', icon: '📋', level: 'Intermediate', anim: 'tilt' },
 ];
